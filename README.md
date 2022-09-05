@@ -2,6 +2,15 @@
 <p align="center">Control font size at a specific breakpoink.</p>
 
 
+<p align="center">
+<a href="https://www.paypal.com/donate/?hosted_button_id=PSZFE9T4P2TWY" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate"></a>
+<a href="https://www.npmjs.com/package/responsive-font-size"><img src="https://badge.fury.io/js/responsive-font-size.svg" alt="Version Status"></a>
+<a href="https://www.npmjs.com/package/responsive-font-size"><img src="https://img.shields.io/npm/dt/responsive-font-size.svg" alt="Downloads"></a>
+<a href="https://www.npmjs.com/package/responsive-font-size"><img src="https://img.shields.io/npm/l/responsive-font-size.svg" alt="License"></a>
+</p>
+
+------
+
 __Install using npm__
 ```
 npm i responsive-font-size
