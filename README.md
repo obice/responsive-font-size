@@ -1,7 +1,13 @@
-# Responsive Font Size
-Responsive font size, control the font size of an element at a specific breakpoink.
+<h1 align="center">Responsive Font Size </h1>
+<p align="center">Control font size at a specific breakpoink.</p>
 
-## Available default sizes
+
+__Install using npm__
+```
+npm i responsive-font-size
+```
+
+__Default sizes__
 ```
 text-xs: .75rem;
 text-sm: .875rem;
@@ -17,21 +23,26 @@ text-6xl: 4rem;
 text-7xl: 5rem;
 ```
 
-## Responsive
+__Responsive__
 Add size prefix before the class name {screen}:{size}
 
-Available breakpoints/screen
+`Breakpoints/screen`
 ```
 sm, md, lg, xl
 ```
 
-Usage example:
+__Usage example__
 ```
 <p class="text-base sm:text-sm md:text-base lg:text-xl xl:text3xl">Hey there!</p>
 ```
 
-## Customizing font size and breakpoints
+__Customizing font size and breakpoints__
 Edit the variable.scss file to change the default font size and breakpoint values, located inside the src folder and run the command below to rebuild.
 ```
 npm rfs-build
 ```
+
+
+------
+
+Made with <span style="color:red">♥</span> by __[Obicerj](https://twitter.com/Obicerj)__
