@@ -1,18 +1,26 @@
 {
   "name": "responsive-font-size",
   "version": "1.0.0",
-  "description": "Responsive font size",
+  "description": "Responsive font size, control font size at a specific breakpoink.",
+  "keywords": [
+    "responsive font size",
+    "responsive",
+    "font size",
+    "css",
+    "sass",
+    "scss"
+  ],
   "scripts": {
     "rfs-build": "sass --watch src/index.scss build/css/responsive-font-size.css"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/obice/responsive-font-size.git"
+    "url": "git+https://github.com/obicerj/responsive-font-size.git"
   },
-  "author": "jestoni obice",
+  "author": "Obicerj <obicerjestoni@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/obice/responsive-font-size/issues"
+    "url": "https://github.com/obicerj/responsive-font-size/issues"
   },
-  "homepage": "https://github.com/obice/responsive-font-size#readme"
+  "homepage": "https://github.com/obicerj/responsive-font-size#readme"
 }
